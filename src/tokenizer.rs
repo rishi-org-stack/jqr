@@ -119,7 +119,7 @@ impl<'a> Iterator for Tokenizer<'a> {
     }
 }
 
-mod complex_tests {
+mod tokenizer_tests {
     use super::*;
     #[test]
     fn tokens_from_stream_valid_curly_brackets_tokenizer() {

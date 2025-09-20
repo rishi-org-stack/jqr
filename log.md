@@ -15,3 +15,6 @@ Sept-2-25
 1. Implement Iterator pattern for tokenizer.
 2. add tests for refactor and bool type
 
+sept-14-25
+1. Create ast tree
+you start from left identify the token type use the function to parse it create a node annd a child to root
